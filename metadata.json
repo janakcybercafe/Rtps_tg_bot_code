@@ -1,0 +1,6 @@
+{
+  "name": "TeleHost Cloud — Personal Telegram Bot PaaS",
+  "description": "Personal Render/Heroku-style cloud dashboard and multi-bot hosting platform for Standard Telegram Bot API (BOT_TOKEN) bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
